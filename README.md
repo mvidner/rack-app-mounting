@@ -1,5 +1,5 @@
 An example of mounting several HTTP apps under a common root,
-using Rack and Sinatra.
+using [Rack](http://rack.github.io/) and [Sinatra](http://www.sinatrarb.com/).
 
 Use one of
 
